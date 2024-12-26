@@ -8,5 +8,5 @@ Striver's A2Z DSA Sheet is a well-known and highly regarded resource in the worl
 ## Contents
 `Basics` `Sorting Techniques` `Arrays` `Binary Search` `String` `Linked List` `Recursion` `Bit Manipulation` `Stacks` `Queues` `Sliding Windows` `Two Pointers` `Heap` `Greedy` `Binary Tree` `Binary Search Tree` `Graph` `Disjoint Set` `Dynamic Programming` `Trie`
 ## Resources
-[Link to the Sheet](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/) <br>
+
 [Take U Forward - Youtube Channel](https://www.youtube.com/@takeUforward)
